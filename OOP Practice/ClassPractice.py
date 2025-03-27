@@ -14,6 +14,8 @@ class Person:
 
 
 benjamin_marta = Person("Benjamin", "Marta", "41", "November 3rd, 1983", "San Diego, CA")
+jennifer_lewis = Person("Jennifer", "Lewis", "39", "May 19, 1986", "San Jose, CA")
 
 print(benjamin_marta)
+print(jennifer_lewis)
 
